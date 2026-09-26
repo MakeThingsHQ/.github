@@ -1,9 +1,7 @@
-## Meridiaan
+## MakeThings
 
-**Project memory for AI agents.** One knowledge base per project, shared by the whole team and every agent, served over MCP and kept current by the agents themselves.
+Small, focused products for people who build.
 
-- [meridiaan.io](https://meridiaan.io): the product
-- [docs.meridiaan.io](https://docs.meridiaan.io): concepts, connection, plans
-- [MakeThingsHQ/meridiaan](https://github.com/MakeThingsHQ/meridiaan): client configurations, Workspace templates, examples, and the place for questions and issues
+### Projects
 
-New here? Try the [two-session test](https://github.com/MakeThingsHQ/meridiaan/blob/main/examples/two-session-test.md): tell one agent a decision, ask another one why it was taken.
+- **[Meridiaan](https://meridiaan.io?ref=github)**: project memory for AI agents, served over MCP. Client configurations, Workspace templates and examples in [MakeThingsHQ/meridiaan](https://github.com/MakeThingsHQ/meridiaan).
